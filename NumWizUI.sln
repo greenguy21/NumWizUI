@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{4DDAFB82-ACA9-0307-190A-83F2462BC3A7}") = "NumWizUI", "Assembly-CSharp.csproj", "{D29F85E5-9DD7-C173-94B2-A892A5AA872B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{D29F85E5-9DD7-C173-94B2-A892A5AA872B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29F85E5-9DD7-C173-94B2-A892A5AA872B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29F85E5-9DD7-C173-94B2-A892A5AA872B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29F85E5-9DD7-C173-94B2-A892A5AA872B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
